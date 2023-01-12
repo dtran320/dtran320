@@ -1,4 +1,4 @@
-👋 Hi, I’m David, a founder, engineer, and ultrarunner.
+👋 Hi, I’m David— a founder, engineer, and ultrarunner.
 
 👨🏻‍💻 Most of the time, you'll find me working on my startup, [Flow Club](https://www.flow.club).
 Our mission is to provide accountability, structure, and community to people with diverse working styles,
